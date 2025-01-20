@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body><h1><i><u><mark>HTML"Hyper Text Markup Language"</mark></u></i></h1>
+    <h1>HTML</h1>
+    <p>HTML, or HyperText Markup Language, is a language used to create and structure web pages. It provides instructions to
+    web browsers on how to display content like text, images, and links.</p>
+    <h1>CSS </h1>
+    <p>CSS is the acronym of “Cascading Style Sheets”. CSS is a computer language for laying out and structuring web pages
+    (HTML or XML). This language contains coding elements and is composed of these “cascading style sheets” which are
+    equally called CSS files (. css).</p>
+    <h1>JAVA Script</h1>
+    <p>JavaScript is a programming language that allows web pages to be more dynamic and interactive:</p>
+    <br><br><br><br>
+<p><marquee behavior="" direction="">"The best way to predict the future is to invent it."</marquee></p>
+</body>
+</html>
